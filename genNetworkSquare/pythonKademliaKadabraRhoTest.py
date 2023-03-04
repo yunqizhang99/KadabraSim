@@ -12,7 +12,6 @@ import sys
 import tracemalloc
 import hotspotsGeneration
 import reinforcementLearning
-import RLParameters
 from math import dist
 
 experimentCounter = 0
